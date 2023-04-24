@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e7cd6ecd.css","mappings":"AACI,eACI,uCACJ","sources":["App.css"],"sourcesContent":["\n    .shadow-custom {\n        box-shadow: 0 8px 32px 0 rgb(0, 0, 0, 0.37);\n    }\n\n"],"names":[],"sourceRoot":""}
